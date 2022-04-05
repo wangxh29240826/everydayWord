@@ -1,4 +1,5 @@
 package Threeweek;
+
 /**
  * 打印99乘法表
  */
