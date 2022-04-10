@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/everydayWord.iml" filepath="$PROJECT_DIR$/everydayWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../file_io_app/file_io_app.iml" filepath="$PROJECT_DIR$/../../file_io_app/file_io_app.iml" />
     </modules>
   </component>
 </project>
